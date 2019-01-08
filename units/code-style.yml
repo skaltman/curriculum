@@ -23,7 +23,7 @@ readings:
   text: DCL style guide
 
 - href: http://style.tidyverse.org
-  text: Style guide
+  text: tidyverse style guide
   desc: >
     The official tidyverse style guide includes more information than the DCL 
     style guide. Take a look at chapters 1-4. 
